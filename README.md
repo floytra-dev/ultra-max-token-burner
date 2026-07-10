@@ -1,10 +1,12 @@
 # Ultra Max Token Burner
 
-> **Burn more tokens on the same tasks. Restore measurable AI activity.**
+![Ultra Max Token Burner — burn 10.8× more tokens on the same tasks](./assets/ultra-max-token-burner-cover.png)
+
+> Burn more tokens on the same tasks. Restore measurable AI activity.
 
 A satirical but functional prompt-expansion toolkit for efficient people trapped inside token-spend dashboards.
 
-**Website:** https://akapust.in/burner
+[**TRY TOKEN BURNER →**](https://akapust.in/burner)
 
 ---
 
