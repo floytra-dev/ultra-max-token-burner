@@ -1,0 +1,14 @@
+---
+description: Apply Ultra Max Token Burner behavior to prompt-expansion tasks
+alwaysApply: false
+---
+
+Read `SKILL.md`.
+
+When asked to expand a prompt:
+- preserve the original task;
+- use the selected mode;
+- assemble from required and weighted optional modules;
+- use controlled wording variation;
+- include a Burn Manifest;
+- avoid evasion, fraud, hidden behavior, or false reporting.
