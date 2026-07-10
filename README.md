@@ -347,6 +347,8 @@ Useful contributions include:
 
 Please do not add stealth, monitoring bypass, false reporting, or fabricated compliance claims.
 
+![Tests](https://github.com/floytra-dev/ultra-max-token-burner/actions/workflows/test.yml/badge.svg)
+
 ## License
 
 MIT.
