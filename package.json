@@ -1,0 +1,24 @@
+{
+  "name": "ultra-max-token-burner",
+  "version": "1.0.0",
+  "description": "Controlled procedural prompt expansion for manager-visible AI work.",
+  "type": "module",
+  "bin": {
+    "token-burner": "./bin/token-burner.js"
+  },
+  "scripts": {
+    "burn": "node bin/token-burner.js",
+    "example": "node bin/token-burner.js --mode ultra-max --seed 108 --prompt \"Write a Slack reply saying we need more time.\""
+  },
+  "keywords": [
+    "prompt-engineering",
+    "agents",
+    "satire",
+    "ai",
+    "token-spend"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
