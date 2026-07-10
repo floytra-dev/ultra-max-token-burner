@@ -60,6 +60,8 @@ The project is satire. The generated prompts are still designed to be usable.
 Requires Node.js 18 or newer.
 
 ```bash
+git clone https://github.com/floytra-dev/ultra-max-token-burner.git
+cd ultra-max-token-burner
 npm install
 node bin/token-burner.js \
   --mode ultra-max \
