@@ -326,9 +326,9 @@ https://akapust.in/burner
 │   └── generator.js
 ├── examples/
 │   └── ultra-max-output.md
-├── .github/
+├── github/
 │   └── copilot-instructions.md
-└── .cursor/
+└── cursor/
     └── rules/
         └── token-burner.mdc
 ```
