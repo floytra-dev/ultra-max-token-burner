@@ -96,6 +96,29 @@ node bin/token-burner.js \
 Need step-by-step setup help? Read [`GITHUB_SETUP_FOR_HUMANS.md`](./GITHUB_SETUP_FOR_HUMANS.md).
 
 ---
+## Before / after
+
+**Before**
+
+```text
+Write a Slack reply saying we need more time.
+```
+
+**After Ultra Max**
+
+```text
+Role and Mandate
+Governance Context
+Stakeholder Alignment
+Risk Matrix
+Escalation Protocol
+30/60/90 Execution Horizon
+Validation and Self-Review
+...
+```
+
+Estimated prompt expansion: **10.8×**
+---
 
 ## Modes
 
