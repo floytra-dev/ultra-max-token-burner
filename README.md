@@ -349,9 +349,11 @@ https://akapust.in/burner
 │   └── generator.js
 ├── examples/
 │   └── ultra-max-output.md
-├── github/
-│   └── copilot-instructions.md
-└── cursor/
+├── .github/
+│   ├── copilot-instructions.md
+│   └── workflows/
+│       └── test.yml
+└── .cursor/
     └── rules/
         └── token-burner.mdc
 ```
